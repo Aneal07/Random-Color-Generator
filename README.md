@@ -6,6 +6,6 @@ Html,
 Css, 
 & JavaScript.
 
-[Demohttps://aneal07.github.io/Random-Color-Generator/
+[Demo]https://aneal07.github.io/Random-Color-Generator/
 
 When you click the button it automatically generates different colours.
