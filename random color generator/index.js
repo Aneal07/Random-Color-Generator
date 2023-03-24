@@ -9,6 +9,10 @@ for (let index = 0; index < 30; index++) {
 const colorContainerEls = document.querySelectorAll(".color-container");
 console.log(colorContainerEls);
 
+const colorButtonEl = document.querySelector("#color-button");
+colorButtonEl.addEventListener("click", generateColors);
+
+
 generateColors();
 
 function generateColors(){
