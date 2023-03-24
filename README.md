@@ -8,4 +8,4 @@ Css,
 
 [Demo](http://192.168.0.11:5500/index.html)
 
-When you refresh the page it automatically generates a different colours.
+When you click the button it automatically generates different colours.
