@@ -30,3 +30,16 @@ h1{
     border: solid black 2px;
     border-radius: 10px;
 }
+
+#color-button{
+    margin: 10px auto;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+    font-size: 17px;
+    
+}
