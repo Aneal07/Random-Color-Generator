@@ -8,7 +8,7 @@ To use the Random Color Generator, simply visit the following URL:
 
 
 [Live Site](https://aneal07.github.io/Random-Color-Generator/)
-Usage
+
 Once the page has loaded, users can click on the "Generate" button to generate a new random colour. The hex code for the colour will be displayed below the button, and users can click on the "Copy" button to copy the code to their clipboard.
 
 Contributing
